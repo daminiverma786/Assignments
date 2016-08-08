@@ -1,0 +1,51 @@
+header h1{
+	text-align: center;
+	color: blue;
+	font-size:80px;
+	
+	background: black;
+	font-family:cursive;  
+    background: url(../image/gb2.jpg);
+}
+.container_12
+{
+	background-color: black;
+}
+
+.main li{
+	color: black;
+	font-size: 30px;
+	float: right;
+	font-family: career new bold;
+
+}
+/*.grid_12
+{
+	margin-top: 70 px;
+}*/
+body{
+	background: url(../image/gb.jpg);
+}
+footer{
+
+	width: 100%;
+	color: blue;
+/*	background-color: white;*/
+
+
+}
+
+.fott
+{
+	width:300px;
+	float: left;
+}
+#fot
+{
+	width: 300px;
+	padding-left: 20px;
+}
+.fot1 
+{
+	padding-left: 900px;
+}

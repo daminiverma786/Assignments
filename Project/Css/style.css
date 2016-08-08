@@ -1,0 +1,86 @@
+.list1 li{
+	display:inline;
+}
+a
+{
+	overflow: hidden;
+	clear: both;
+	text-decoration: none;
+	
+	margin-left: 50px;
+	color: white;
+}
+header h1{
+	font-size: 100px;
+}
+header {
+	position: fixed;
+	width: 100%;
+	text-align: center;
+	color: blue;
+	font-size:150px;
+	
+	background: url(../image/gb2.jpg);
+	font-family:cursive;
+}
+
+.main{
+	margin-left: 0;
+	display: inline;
+	overflow: hidden;
+	clear: both;
+}
+body{
+	background:url(../image/gb2.jpg);
+}
+.ab img
+{
+	width: 300px;
+	height: 250px;
+}
+.dd img
+{
+	width: 950px;
+	height:950px;
+	margin-top: 100px;
+}
+h2
+{
+	color: blue;
+	font-family: sans-serif;
+}
+.container_12{
+	background-color: grey;
+}
+footer
+{
+	width: 100%;
+	color: yellow;
+/*	background-color: white;*/
+
+background: url(../image/gb2.jpg);
+
+}
+
+.fott
+{
+	width:300px;
+	float: left;
+}
+#fot
+{
+	width: 300px;
+	padding-left: 20px;
+}
+.fot1 
+{
+	padding-left: 900px;
+}
+.f1
+{
+	width: 300px;
+	float: right;
+	display: inline;
+	text-decoration: none;
+
+}
