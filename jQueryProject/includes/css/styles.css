@@ -1,0 +1,84 @@
+/*
+
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+   h1{
+      text-align: left;
+      font-size: 60px;
+      color: white;
+   }
+   .lb{
+      float: right;
+      margin-top:50px;
+   }
+   #search{
+float: right;
+      background-color: red;
+
+   }
+
+   .container-fluid{
+      background-color: black;
+      width: 100%;
+   }
+   
+   .sd
+   {
+      margin-top: 80px;
+     
+      background-color: #F7C59F;
+   }
+   #tb{
+
+      font-size: 20px;
+      width: 100%;
+   }
+/*#tb{
+      width: 100%;
+      align-self: center;
+font-size: 0px;
+      border-width:20px;
+      border-color: black;
+      }*/
+
+      @media(max-width: 480px) 
+      {
+         .sd{
+            margin-top: 50px;   
+            width=100%; 
+         }
+         .lb{
+            margin-top: 40px;
+         }
+      }
+      @media(max-width: 768px) 
+      {
+         .sd{
+            
+         margin-top: 80px;
+
+            width=100%;  
+         }
+      }
+      @media(max-width: 1200px) 
+      { .sd{
+         margin-top: 150px;
+
+         width=100%;  
+      }
+
+   }
+
+   
